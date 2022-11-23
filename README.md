@@ -11,7 +11,7 @@ Este repositorio contiene el programa de regresion lineal en C++ junto al datase
 *  extractiondata.cpp (clase para leer el dataset y demas funciones)
 *  regresion.cpp (Clase donde se realiza la regresion lineal y demas funciones)
 *  extractiondata.h ('Archivo cabecera' que referencia a la clase con el mismo nombre)
-*  regresion.h (('Archivo cabecera' que referencia a la clase con el mismo nombre))
+*  regresion.h ('Archivo cabecera' que referencia a la clase con el mismo nombre)
 
 
 ***Para ir al analisis en python dar clic en el siguiente enlace:***
