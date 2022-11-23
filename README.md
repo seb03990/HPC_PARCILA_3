@@ -14,6 +14,6 @@ Este repositorio contiene el programa de regresion lineal en C++ junto al datase
 *  regresion.h (('Archivo cabecera' que referencia a la clase con el mismo nombre))
 
 
-***Para ir al analisis en python dar clic en el siguiente enlace: ***
+***Para ir al analisis en python dar clic en el siguiente enlace:***
 
 https://colab.research.google.com/drive/1w9ow1iCJSJ9nX0JfAQD7ouNwqDOheG7M?usp=sharing
